@@ -17,5 +17,8 @@
     "Upto",
     "usernotfound",
     "Xunit"
-  ]
+  ],
+  "files.associations": {
+    "*.yaml": "home-assistant"
+  }
 }
