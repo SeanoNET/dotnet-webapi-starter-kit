@@ -1,24 +1,5 @@
 {
-  "files.trimTrailingWhitespace": true,
-  "files.trimFinalNewlines": true,
-  "files.insertFinalNewline": false,
-  "cSpell.words": [
-    "Ardalis",
-    "cannotbedeleted",
-    "cref",
-    "Dtos",
-    "fshapidb",
-    "Mediat",
-    "mssqllocaldb",
-    "notdefault",
-    "nvarchar",
-    "serilogsettings",
-    "signalr",
-    "Upto",
-    "usernotfound",
-    "Xunit"
-  ],
-  "files.associations": {
-    "*.yaml": "home-assistant"
-  }
+    "files.associations": {
+        "*.yaml": "home-assistant"
+    }
 }
