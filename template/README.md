@@ -6,7 +6,7 @@
 
 ![fullstackhero webapi](https://raw.githubusercontent.com/fullstackhero/dotnet-webapi-boilerplate/main/media/fullstack-hero-dotnet-7-webapi-boilerplate-banner.png "fullstackhero webapi")
 
-# ${{values.component_id}}
+# ${{values.name}}
 
 ${{values.description}}
 
