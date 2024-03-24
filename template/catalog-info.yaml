@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: ${{values.component_id | dump}}
+  name: ${{values.name | dump}}
   description: ${{values.description | dump}}
   labels:
     example.com/custom: custom_label_value
