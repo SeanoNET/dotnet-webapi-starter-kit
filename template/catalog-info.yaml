@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: ${{values.name | dump}}
-  description: A web api service using ASP.NET and .NET 8
+  name: WeatherApi
+  description: Artist Lookup
   labels:
     example.com/custom: custom_label_value
   annotations:
@@ -20,5 +20,5 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: ${{values.owner | dump}}
+  owner: seanonet
   system: core
